@@ -1,0 +1,84 @@
+/*nav bar*/
+.navbar-custom .navbar-brand {
+    font-weight: 700;
+	 font-family: 'Cinzel', serif;
+}
+.navbar-custom .navbar-toggle {
+    color: #fff;
+    background-color: #247BFF;
+    font-size: 12px;
+}
+
+.navbar-custom .nav li.active a {
+    background-color: #247BFF;
+}
+/*intro page top*/
+.brand-heading {
+    font-size: 75px;
+	 font-family: 'Contrail One', cursive;
+	 text-shadow: 2px 2px #000;
+}
+.btn-circle:hover {
+	background-color: #247BFF;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+}
+a {
+	color: #247BFF;
+}
+a:hover {
+	color: #fff;
+}
+a:focus {
+	color: #fff;
+}
+/*ABOUT*/
+
+/*SERVICES*/
+h4 {
+	margin-bottom: 5px;
+}
+.card>.card-heading {
+    color: #fff;
+    background-color:#247BFF;
+    border-color: #000;
+	text-shadow: 2px 2px #000;
+}
+.card>.card-heading+.card-collapse>.card-body {
+    background-color: #000;
+}
+ul {
+	list-style-type:none;
+}
+/*MEDIA*/
+/*SOCIAL BUTTONS*/
+.btn-default {
+    border: 1px solid #247BFF;
+    color: #247BFF;
+    background-color: transparent;
+}
+.btn-default:hover {
+    border: 1px solid #247BFF;
+    color: #000;
+    background-color: #247BFF;
+}
+/*button in contact*/
+.btn-success {
+    color: #fff;
+    background-color: #247BFF;
+    border-color: #247BFF;
+}
+
+.blue {
+	color: #247BFF;
+}
+.card-header {
+    background-color: #247BFF;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+.bg-dark{
+    background-color:#000!important
+}
